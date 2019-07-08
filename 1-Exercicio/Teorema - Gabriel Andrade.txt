@@ -1,0 +1,7 @@
+ -Explicando porque um número é par
+	-Os números serão divididos em apenas dois grupos, os pares e o ímpares
+	-Um número será par quando ele é divido por 2 e seu resto será 0
+	-Qualquer número poderá ser utilizado
+	-Usando o símbolo % para se obter somente o resultado do resto da operação
+	-Se x % 2 = 0, portanto o número sempre será par (x sendo representado por qualquer número)
+	-Caso contrário, o número será impar
